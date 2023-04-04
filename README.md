@@ -8,10 +8,10 @@ Actualmente me encuentro cursando Ing. en Sistemas y diversos cursos para seguir
 🔴 Legajo: 1678887 <br>
 
 # Foto
-[Insertar una foto]<br>
+![Foto](Foto.jpeg)<br>
 
 # Algunos de mis dibujos
-[Insertar dibujo 1]
-[Insertar dibujo 2] <br>
-[Insertar dibujo 3]
-[Insertar dibujo 4]
+![Dibujo 1](Dibujo_1.jpg)
+![Dibujo 2](Dibujo_2.jpg) <br>
+![Dibujo 3](Dibujo_3.jpeg)
+![Dibujo 4](Dibujo_4.jpeg)
