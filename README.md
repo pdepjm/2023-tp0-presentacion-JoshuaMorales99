@@ -7,16 +7,16 @@ Actualmente me encuentro cursando Ing. en Sistemas y diversos cursos para seguir
 🔴 Cumpleaños: 26/07 (Soy de Leo ♌) <br>
 🔴 Legajo: 1678887 <br>
 
-# Foto
+# 📷 Foto
 <img src="Foto.jpeg" alt="Foto" width="500px">
 
-# Algunos de mis dibujos
+# ✏ Algunos de mis dibujos
 <div>
-  <img src="Dibujo_1.jpg" alt="Dibujo 1" width="320px">
-  <img src="Dibujo_2.jpg" alt="Dibujo 2" width="320px">
-  <img src="Dibujo_3.jpg" alt="Dibujo 3" width="320px">
+  <img src="Dibujo_1.jpg" alt="Dibujo 1" width="300px">
+  <img src="Dibujo_2.jpg" alt="Dibujo 2" width="300px">
+  <img src="Dibujo_3.jpg" alt="Dibujo 3" width="300px">
 </div>
 <div>
-  <img src="Dibujo_4.jpeg" alt="Dibujo 4" height="427px">
-  <img src="Dibujo_5.jpeg" alt="Dibujo 5" width="320px">
+  <img src="Dibujo_4.jpeg" alt="Dibujo 4" height="434px">
+  <img src="Dibujo_5.jpeg" alt="Dibujo 5" width="326px">
 </div>
